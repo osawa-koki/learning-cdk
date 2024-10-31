@@ -1,0 +1,20 @@
+{
+  "name": "learning-cdk",
+  "version": "1.0.0",
+  "description": "🎃🎃🎃 CDKでAWSリソースをプロビジョニングしてみる！",
+  "main": "./src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osawa-koki/learning-cdk.git"
+  },
+  "author": "osawa-koki",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/osawa-koki/learning-cdk/issues"
+  },
+  "homepage": "https://github.com/osawa-koki/learning-cdk#readme",
+  "scripts": {},
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
