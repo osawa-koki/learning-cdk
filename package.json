@@ -13,6 +13,8 @@
     "url": "https://github.com/osawa-koki/learning-cdk/issues"
   },
   "homepage": "https://github.com/osawa-koki/learning-cdk#readme",
-  "scripts": {
+  "scripts": {},
+  "dependencies": {
+    "typescript": "^5.6.3"
   }
 }
