@@ -9,7 +9,7 @@ export class LearningCdkStack extends cdk.Stack {
     // The code that defines your stack goes here
 
     // example resource
-    const queue = new sqs.Queue(this, 'LearningCdkQueue', {
+    new sqs.Queue(this, 'LearningCdkQueue', {
       visibilityTimeout: cdk.Duration.seconds(300),
       queueName: 'LearningCdkQueue',
     });
