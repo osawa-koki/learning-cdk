@@ -31,6 +31,7 @@
     "source=${env:HOME}/.aws,target=/root/.aws,type=bind"
   ],
   "containerEnv": {
-    "AWS_PROFILE": "default"
+    "AWS_PROFILE": "default",
+    "AWS_DEFAULT_REGION": "ap-northeast-1"
   }
 }
