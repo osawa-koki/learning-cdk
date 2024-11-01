@@ -10,7 +10,8 @@ export class LearningCdkStack extends cdk.Stack {
 
     // example resource
     const queue = new sqs.Queue(this, 'LearningCdkQueue', {
-      visibilityTimeout: cdk.Duration.seconds(300)
+      visibilityTimeout: cdk.Duration.seconds(300),
+      queueName: 'LearningCdkQueue',
     });
   }
 }
