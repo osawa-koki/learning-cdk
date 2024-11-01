@@ -20,7 +20,8 @@
     "build": "tsc",
     "watch": "tsc -w",
     "test": "jest",
-    "cdk": "cdk"
+    "cdk": "cdk",
+    "type-check": "tsc --noEmit"
   },
   "dependencies": {
     "aws-cdk-lib": "2.164.1",
