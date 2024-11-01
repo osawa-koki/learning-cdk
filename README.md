@@ -2,6 +2,10 @@
 
 🎃🎃🎃 CDKでAWSリソースをプロビジョニングしてみる！  
 
+[![ci](https://github.com/osawa-koki/learning-cdk/actions/workflows/ci.yml/badge.svg)](https://github.com/osawa-koki/learning-cdk/actions/workflows/ci.yml)
+[![cd](https://github.com/osawa-koki/learning-cdk/actions/workflows/cd.yml/badge.svg)](https://github.com/osawa-koki/learning-cdk/actions/workflows/cd.yml)
+[![Dependabot Updates](https://github.com/osawa-koki/learning-cdk/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/osawa-koki/learning-cdk/actions/workflows/dependabot/dependabot-updates)
+
 ## 実行方法
 
 DevContainerに入り、以下のコマンドを実行します。  
